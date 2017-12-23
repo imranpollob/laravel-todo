@@ -2,9 +2,9 @@
 This is a simple todo implementation in Laravel 5.5
 
 # Instalation
-Run the following commands to getting started
+Run the following commands for getting started
 
 
-php artisan migrate
+<code>php artisan migrate</code>
 
-php artisan db:seed
+<code>php artisan db:seed</code>
